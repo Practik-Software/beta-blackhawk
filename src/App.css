@@ -1,3 +1,14 @@
 .hero-container{
-  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(53, 52, 52, 0.658);
+  height: 60vh;
+  width: 100vw;
+}
+.cta-button{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 20rem;
 }
