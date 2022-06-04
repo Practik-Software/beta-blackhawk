@@ -10,7 +10,7 @@ const Navbar = (props) => {
         <nav className="navbar">
             <h1>Project Blackhawk</h1>
             <div>
-                Test
+                
             </div>
 
 
