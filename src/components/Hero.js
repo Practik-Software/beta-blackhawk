@@ -5,7 +5,9 @@ const Hero = (props) => {
    
     return(
         <div className='hero-container'>
-            <button className='cta-button'>hello</button>
+            <div className='hero-content'>
+            <h1 className='cta-text'>Let's Make A Family Photo Album.</h1>
+            <button  className='cta-button'>Start Now</button></div>
          </div>
       
     )

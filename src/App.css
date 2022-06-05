@@ -6,9 +6,32 @@
   height: 60vh;
   width: 100vw;
 }
-.cta-button{
+
+div.hero-content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 30vh;
+  width: 100vw;
+}
+
+button.cta-button{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 12rem;
+  height: 40rem;
+  margin-top: 10rem;
+}
+.cta-text{
+  font-size: 10rem;
+}
+button{
+  
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 20rem;
+  border-radius: 2rem;
 }
